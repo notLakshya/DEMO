@@ -1,0 +1,103 @@
+html{
+    font-size: 62.5%;
+    height: 100%;
+  
+}
+.page-wrapper{
+    min-width: 100%;
+}
+nav{
+    font-size: 24px;
+}
+.navbar-brand{
+    font-size: 24px;
+}
+
+.bg-light{
+    background-color: transparent !important;
+}
+
+
+ .main{
+     height: 50%;
+     padding-top: 10%;
+     font-size: 50px;
+     text-align: center ;
+     font-weight: 800;
+ }
+ .lol{
+    font-size: 18px;
+    text-align: center ;
+    color: red;
+ }
+ .don{
+    font-size: 50px;
+    text-align: center ;
+    font-weight: 800;
+    padding-bottom: 5%;
+ }
+ .hi{
+    font-weight: 300; 
+    font-size: 26px;
+    padding-left: 10%;
+    padding-right: 10%;
+ }
+ .cont{
+    font-size: 18px;
+    padding-left: 10%;
+    padding-right: 10%;
+ }
+ .help{
+     font-size: 60px;
+    padding-top: 5%;
+    color: red;
+    font-weight: 800;
+ }
+ body{
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+ }
+ .left{
+    background-color: #B80F0A;
+    padding: 50px;
+    margin: 20px;
+    color:#fff ;
+    height: 16%;
+     
+ }
+ .right{
+    background-color: #1c1b1b;
+  padding: 50px;
+  margin: 20px;
+  color:#fff ;
+  height: 16%;
+   
+ }
+ .hi9{
+    font-weight: 300; 
+    font-size: 28px;
+    padding-left: 5%;
+    padding-right: 5%;
+ }
+ .conti{
+    font-size: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+ }
+ button {
+   
+    border-radius: 48%;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .buttonl { background-color: #1c1b1b; }
+  .buttonr { background-color: #B80F0A; }
+  
